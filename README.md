@@ -1,6 +1,6 @@
 # EXPERIMENT--03-SIMULATION-OF-PUSHBUTTON-AND-LED INTERFACE WITH ARM CONTROLLER AND PROTEUS 
-## Name:Vedagiri Indu Sree
-## REG NO:212223230236
+## Name:YUGABHARATHI M
+## REG NO:212224230314
 ## Date:19.09.2025
 ## Aim: To Interface a Digital output (LED) and Digital input (Pushbutton) to ARM development board , and simulate it in Proteus 
 ## Components required: STM32 CUBE IDE, Proteus 8 simulator .
